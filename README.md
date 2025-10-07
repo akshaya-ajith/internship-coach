@@ -4,11 +4,11 @@ AI-powered internship application tracker with Google Sheets and Calendar integr
 
 ## Setup
 
-## 1. Install Dependencies
-
+### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
-### 2. Google Cloud Setup
+```
+## 2. Google Cloud Setup
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
 2. Create a new project: `internship-coach`
@@ -36,6 +36,7 @@ Edit `~/Library/Application Support/Claude/claude_desktop_config.json` (Mac) or 
     }
   }
 }
+```
 
 ### 5. First Run
 
